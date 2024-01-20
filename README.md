@@ -24,6 +24,7 @@ Prerequisites
 Installation
 ===
 
+
 Install the plugin using the NativeScript CLI tooling:
 
 ### Nativescript 7+
